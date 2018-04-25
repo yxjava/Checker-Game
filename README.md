@@ -1,2 +1,1 @@
-# Checker-Game
-Used javascript, html, css implement an AI checker game application
+Used javascript, html, css implement an AI checker game application. Used alpha-beta search algorithm in the AI part. Only need to open test.html file in any browser, you can start the game immediately.
